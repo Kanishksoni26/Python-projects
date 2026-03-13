@@ -15,7 +15,7 @@ A Python tool that checks the strength of a password using regular expressions.
 
 ## Installation
 
-git clone https://github.com/yourusername/password-strength-checker.git
+git clone https://github.com/Kanishksoni26/Python-projects/blob/main/password.py
 
 cd password-strength-checker
 
